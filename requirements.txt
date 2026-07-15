@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+plotly>=5.0.0
+reportlab>=4.0.0
+requests>=2.28.0
+urllib3>=1.26.0
+extra-streamlit-components>=0.1.60
